@@ -14,6 +14,6 @@ public class Helloworld {
         if (req == "s"){
             System.out.println("hello world");
         }
-        return "helloworld";
+        return "helloworld-test-jenkins";
     }
 }
